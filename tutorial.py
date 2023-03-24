@@ -4,6 +4,7 @@ import math
 import pygame
 from os import listdir
 from os.path import isfile, join
+import pretty_errors
 pygame.init()
 
 pygame.display.set_caption("Platformer")
